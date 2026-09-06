@@ -1,0 +1,1237 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Farmica - Template kit for agriculture",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/theme.creativemox.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Detail service",
+            "screenshot": "screenshots\/detail-service.jpg",
+            "source": "templates\/detail-service.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/detail-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Farmica - Error 404",
+            "screenshot": "screenshots\/farmica-error-404.jpg",
+            "source": "templates\/farmica-error-404.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/?elementor_library=farmica-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Farmica - Single post",
+            "screenshot": "screenshots\/farmica-single-post.jpg",
+            "source": "templates\/farmica-single-post.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/?elementor_library=farmica-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Farmica - Archive Blog",
+            "screenshot": "screenshots\/farmica-archive-blog.jpg",
+            "source": "templates\/farmica-archive-blog.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/?elementor_library=farmica-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Farmica - Footer",
+            "screenshot": "screenshots\/farmica-footer.jpg",
+            "source": "templates\/farmica-footer.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/?elementor_library=farmica-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Farmica - Header",
+            "screenshot": "screenshots\/farmica-header.jpg",
+            "source": "templates\/farmica-header.json",
+            "preview_url": "https:\/\/theme.creativemox.com\/farmica\/?elementor_library=farmica-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Skyboot Custom Icons for Elementor - Elementor Icons library",
+            "version": "1.0.8",
+            "file": "skyboot-custom-icons-for-elementor\/skyboot-custom-icons-for-elementor.php",
+            "author": "Skybootstrap"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.19.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.20.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "garden-pest-control-service.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/garden-pest-control-service-800x538.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 147189,
+            "dimensions": [
+                1280,
+                861
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YCT86WY"
+        },
+        {
+            "filename": "bg_img_header.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/bg_img_header-800x34.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                },
+                {
+                    "source": "templates\/farmica-single-post.json",
+                    "name": "Farmica - Single post"
+                },
+                {
+                    "source": "templates\/farmica-archive-blog.json",
+                    "name": "Farmica - Archive Blog"
+                }
+            ],
+            "filesize": 2701,
+            "dimensions": [
+                1280,
+                55
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "modern-blue-tractor-machinery-plowing-agricultural-field-meadow-at-farm-at-spring-during-sunset.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/modern-blue-tractor-machinery-plowing-agricultural-field-meadow-at-farm-at-spring-during-sunset-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-service.json",
+                    "name": "Detail service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 212632,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DGAQVYK"
+        },
+        {
+            "filename": "workers-walking-in-rye-field.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/workers-walking-in-rye-field-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 110156,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WF9ACC5"
+        },
+        {
+            "filename": "img_1.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/img_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 165005,
+            "dimensions": [
+                640,
+                475
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "strawberry-farm-field-on-mountain.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/strawberry-farm-field-on-mountain-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 301884,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A7WA8BX"
+        },
+        {
+            "filename": "sprinkler-of-irrigation-system-at-field.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/sprinkler-of-irrigation-system-at-field-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 216875,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WNPFJUJ"
+        },
+        {
+            "filename": "farm.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/farm-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 349286,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-T2HMN7W"
+        },
+        {
+            "filename": "farmer-senior-man-working-in-his-farm-and-greenhouse.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/farmer-senior-man-working-in-his-farm-and-greenhouse-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact us"
+                }
+            ],
+            "filesize": 124141,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JF4MAF9"
+        },
+        {
+            "filename": "attractive-agriculturists-harvesting-green-oak-and-lettuce-together-at-green-house-farm-asian-farme.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/attractive-agriculturists-harvesting-green-oak-and-lettuce-together-at-green-house-farm-asian-farme-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 156425,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QGJZRYW"
+        },
+        {
+            "filename": "farmer-tea-plantation-malaysia-agriculture-rural-concept.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/farmer-tea-plantation-malaysia-agriculture-rural-concept-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 163965,
+            "dimensions": [
+                1280,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC8Q6E6"
+        },
+        {
+            "filename": "tuscany-landscape-at-sunrise-tuscan-farm-house-vineyard-hills-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/tuscany-landscape-at-sunrise-tuscan-farm-house-vineyard-hills--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                }
+            ],
+            "filesize": 160814,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLBXJ67"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "kanba.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/kanba-800x222.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 48455,
+            "dimensions": [
+                2160,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "hex-lab.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/hex-lab-800x229.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 12283,
+            "dimensions": [
+                2100,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "goldline.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/goldline-800x186.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 18770,
+            "dimensions": [
+                2580,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "code-lab.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/code-lab-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 18477,
+            "dimensions": [
+                2280,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "circle.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/circle-800x222.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 16096,
+            "dimensions": [
+                2160,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "soybean-field-in-early-morning.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/soybean-field-in-early-morning-800x487.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 159899,
+            "dimensions": [
+                1280,
+                780
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCKAVW8"
+        },
+        {
+            "filename": "rice-fields-and-their-rice-yields-are-a-typical-sight-of-an-agricultural-country-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/rice-fields-and-their-rice-yields-are-a-typical-sight-of-an-agricultural-country--800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 271571,
+            "dimensions": [
+                1280,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L4QLRVJ"
+        },
+        {
+            "filename": "vineyard.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/vineyard-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 343763,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPBGKCQ"
+        },
+        {
+            "filename": "kojsko-goriska-brda-slovenia-view-of-vineyards-and-kojsko-goriska-brda-gorizia-hills-slovenia.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/kojsko-goriska-brda-slovenia-view-of-vineyards-and-kojsko-goriska-brda-gorizia-hills-slovenia-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/farmica-error-404.json",
+                    "name": "Farmica - Error 404"
+                }
+            ],
+            "filesize": 341926,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GN4X689"
+        },
+        {
+            "filename": "family-farmers.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/family-farmers-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 207517,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DP8JWDL"
+        },
+        {
+            "filename": "orchard-management-seasonal-work-and-crop-control-on-organic-farm.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/orchard-management-seasonal-work-and-crop-control-on-organic-farm-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 112013,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2EFKTC7"
+        },
+        {
+            "filename": "woman-farming-and-vegetables-in-greenhouse-for-agriculture-supply-chain-or-business-with-green-pr.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/woman-farming-and-vegetables-in-greenhouse-for-agriculture-supply-chain-or-business-with-green-pr-800x563.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 154009,
+            "dimensions": [
+                1280,
+                901
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VAA5Y6Q"
+        },
+        {
+            "filename": "asian-business-owner-observed-about-growing-organic-in-hydroponics-farm-growing-organic-vegetable.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/asian-business-owner-observed-about-growing-organic-in-hydroponics-farm-growing-organic-vegetable-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 133473,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VJR6QGV"
+        },
+        {
+            "filename": "a-farm-field-planted-with-pepper-crops-.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/a-farm-field-planted-with-pepper-crops--800x530.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing plan"
+                },
+                {
+                    "source": "templates\/farmica-archive-blog.json",
+                    "name": "Farmica - Archive Blog"
+                }
+            ],
+            "filesize": 237201,
+            "dimensions": [
+                1280,
+                848
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DQRLSBX"
+        },
+        {
+            "filename": "19.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24722,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "27.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/27.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 27209,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "09.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/09.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 37887,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "male-hands-touching-soil-on-the-field-expert-hand-of-farmer-checking-soil-health-before-growth-seed.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/male-hands-touching-soil-on-the-field-expert-hand-of-farmer-checking-soil-health-before-growth-seed-800x520.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 98156,
+            "dimensions": [
+                1280,
+                832
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-H3ANDBP"
+        },
+        {
+            "filename": "young-farmer-with-freshly-picked-vegetables-at-garden.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/young-farmer-with-freshly-picked-vegetables-at-garden-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About us"
+                }
+            ],
+            "filesize": 197001,
+            "dimensions": [
+                1280,
+                854
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TS8CS4Y"
+        },
+        {
+            "filename": "30.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/30.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 36131,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "23.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/23.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 34357,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "01.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 38209,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "08.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 43784,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "03.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 42463,
+            "dimensions": [
+                499,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-happy-multiracial-people-faces-on-gray--UBNG9AE"
+        },
+        {
+            "filename": "environmental-conservation-plant-sustainability.jpg",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/environmental-conservation-plant-sustainability-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 101980,
+            "dimensions": [
+                1280,
+                853
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CF2WVVY"
+        },
+        {
+            "filename": "logo_farmica_w.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/logo_farmica_w.png",
+            "templates": [
+                {
+                    "source": "templates\/farmica-footer.json",
+                    "name": "Farmica - Footer"
+                }
+            ],
+            "filesize": 8982,
+            "dimensions": [
+                427,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_farmica.png",
+            "thumbnail_url": "http:\/\/theme.creativemox.com\/farmica\/wp-content\/uploads\/sites\/30\/2024\/03\/logo_farmica.png",
+            "templates": [
+                {
+                    "source": "templates\/farmica-header.json",
+                    "name": "Farmica - Header"
+                }
+            ],
+            "filesize": 9742,
+            "dimensions": [
+                427,
+                125
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

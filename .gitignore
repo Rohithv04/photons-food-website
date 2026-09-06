@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Raw WordPress Migration Backups & Extraction Dumps
+*.wpress
+extracted/
+extracted_site_data/
+page_text_summaries/
+clean_pages/
+*.sqlite
+raw_extracted_wp.json
+full_site_manifest.json
+decoded_site_summary.json
+extracted_pages_detailed.json
+header_decoded.json
+footer_decoded.json
+home_decoded.json
+
+# Scratch scripts
+analyze_site.py
+fast_parse.py
+parse_sql.py
+build_full_site_manifest.py
+decode_summary.py
+extract_elementor_data.py
+extract_products.py
+inspect_all_pages.py
+inspect_core.py
+dump_page_texts.py
+dump_readable.py
